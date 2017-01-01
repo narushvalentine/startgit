@@ -1,0 +1,2 @@
+# startgit
+start earning git
